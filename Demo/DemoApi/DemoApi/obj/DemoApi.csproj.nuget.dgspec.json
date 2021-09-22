@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitprojects\\Local\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj": {}
+    "C:\\Users\\ovasiuta\\Source\\Repos\\test\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj": {}
   },
   "projects": {
-    "C:\\gitprojects\\Local\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj": {
+    "C:\\Users\\ovasiuta\\Source\\Repos\\test\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitprojects\\Local\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj",
+        "projectUniqueName": "C:\\Users\\ovasiuta\\Source\\Repos\\test\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "C:\\gitprojects\\Local\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj",
-        "packagesPath": "C:\\Users\\OleksiiVasiuta.INNOCUBE\\.nuget\\packages\\",
-        "outputPath": "C:\\gitprojects\\Local\\Demo\\DemoApi\\DemoApi\\obj\\",
+        "projectPath": "C:\\Users\\ovasiuta\\Source\\Repos\\test\\Demo\\DemoApi\\DemoApi\\DemoApi.csproj",
+        "packagesPath": "C:\\Users\\ovasiuta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ovasiuta\\Source\\Repos\\test\\Demo\\DemoApi\\DemoApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\OleksiiVasiuta.INNOCUBE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ovasiuta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
